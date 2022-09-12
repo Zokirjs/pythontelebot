@@ -1,0 +1,3 @@
+IS_ANONYM = -1
+
+ZERO = 0

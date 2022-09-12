@@ -126,7 +126,7 @@ STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
-BOT_TOKEN = '5722458103:AAFY9zrbqHrIA2yhvEDpTfJ63B1M7loiUEQ'
+BOT_TOKEN = '5722458103:AAFh7hOteZFsc1o4N3gm4VKnNzCBf3zLpm8'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
